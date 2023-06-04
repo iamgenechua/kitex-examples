@@ -7,3 +7,6 @@ This repo contains useful examples for Kitex.
 ```bash
 docker build -t kitex-examples .
 ```
+
+## Link for better understanding
+https://www.cloudwego.io/docs/kitex/getting-started/

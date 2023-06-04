@@ -21,3 +21,5 @@ require (
 	github.com/HdrHistogram/hdrhistogram-go v1.1.2 // indirect
 	github.com/uber/jaeger-lib v2.4.1+incompatible // indirect
 )
+
+replace github.com/apache/thrift => github.com/apache/thrift v0.13.0
